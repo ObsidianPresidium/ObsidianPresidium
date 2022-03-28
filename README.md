@@ -1,4 +1,4 @@
-I'm a dude from Denmark
+I'm a dude from Denmark who's dipping toes into scripting
 
 I like to code, work out, and work out code :)
 
