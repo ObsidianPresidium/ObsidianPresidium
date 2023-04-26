@@ -1,6 +1,6 @@
-I'm a dude from Denmark who's dipping toes into scripting
+I'm a dude from 🇩🇰 who's dipping toes into scripting
 
-I like to code, work out, and work out code :)
+I like to code, and work out code :)
 
 <!---
 ObsidianPresidium/ObsidianPresidium is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
