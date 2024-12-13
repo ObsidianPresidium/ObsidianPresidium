@@ -6,7 +6,7 @@ My favorite technologies to work with are GNU/Linux 🐧 (including shell script
 
 - [**SkejsChat**](https://github.com/SnoSoft/SkejsChat), a simple chat application built with .NET and SvelteKit
 - [**minecraft-server-installer**](https://github.com/ObsidianPresidium/minecraft-server-installer), a Python script to quickly set up (and automatically update) a Minecraft server of various flavors
-- [**info-screen-v2**](https://github.com/ObsidianPresidium/info-screen), an updated version of my info-screen project made with a different toolchain.
+- [**info-screen-v2**](https://github.com/ObsidianPresidium/info-screen-v2), an updated version of my info-screen project made with a different toolchain.
 
 ### Some projects I've finished are:
 
