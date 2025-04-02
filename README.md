@@ -4,8 +4,8 @@ My favorite technologies to work with are GNU/Linux 🐧 (including shell script
 
 ### Some projects I'm currently working on are:
 
+- [**ai-spoons**](https://github.com/ObsidianPresidium/ai-spoons), an AI-powered web app to help with scheduling and prioritization in daily life
 - [**SkejsChat**](https://github.com/SnoSoft/SkejsChat), a simple chat application built with .NET and SvelteKit
-- [**minecraft-server-installer**](https://github.com/ObsidianPresidium/minecraft-server-installer), a Python script to quickly set up (and automatically update) a Minecraft server of various flavors
 - [**info-screen-v2**](https://github.com/ObsidianPresidium/info-screen-v2), an updated version of my info-screen project made with a different toolchain.
 
 ### Some projects I've finished are:
